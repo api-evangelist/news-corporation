@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/newscorp-ghfb
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/newscorp
   - type: Website
     url: https://www.news-corporation.com
 description: >-
